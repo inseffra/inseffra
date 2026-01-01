@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.0.0",
   "download_url": "https://github.com/inseffra/inseffra/releases/latest",
   "changelog": "v2.0.0 - Complete C++ rewrite with Stream Proof, Click Sounds, and more!",
   "required": false
