@@ -7,6 +7,7 @@
 [![Version](https://img.shields.io/badge/version-2.0.0-purple.svg)](https://github.com/inseffra/inseffra/releases)
 [![Windows](https://img.shields.io/badge/platform-Windows%2010%2F11-blue.svg)](https://github.com/inseffra/inseffra/releases)
 [![Downloads](https://img.shields.io/github/downloads/inseffra/inseffra/total?color=purple)](https://github.com/inseffra/inseffra/releases)
+[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
 
 <img src="assets/preview.png" alt="Inseffra Preview" width="650"/>
 
@@ -27,7 +28,7 @@
 <td width="50%">
 
 ### 🖱️ Left Clicker
-- Adjustable CPS (1-50)
+- Adjustable CPS (1-40)
 - Smart Randomization
 - Blockhit Support
 - Mouse Shake
@@ -48,19 +49,19 @@
 <tr>
 <td>
 
-### 🏃 Movement
-- Sprint Reset (W-Tap)
-- Auto Strafing
-- Anti-AFK System
+### 🛡️ Safety Features
+- 👻 Stream Proof
+- Pause in Menu
+- Only in Focus Mode
 
 </td>
 <td>
 
 ### ⚙️ Advanced
-- 👻 Stream Proof
-- 🔊 Click Sounds
-- 🌍 Multi-Language
+- 🔊 Click Sounds (7 mice)
+- 🌍 Multi-Language (EN/TR)
 - ⌨️ Custom Hotkeys
+- Anti-AFK System
 
 </td>
 </tr>
@@ -138,15 +139,15 @@ All features can be bound to custom hotkeys including:
 
 ---
 
-## 🛡️ Safety
+## 🛡️ Safety Features
 
 | Feature | Description |
 |---------|-------------|
-| Stream Proof | Hidden from screen capture |
+| Stream Proof | Hidden from screen capture software |
 | Pause in Menu | Auto-pause in inventory/chat |
-| Only in Focus | Only works in Minecraft |
+| Only in Focus | Only works when Minecraft is active |
 | Randomization | Natural click patterns |
-| Mouse Shake | Human-like movement |
+| Mouse Shake | Human-like cursor movement |
 
 ---
 
@@ -166,15 +167,16 @@ All features can be bound to custom hotkeys including:
 
 Love Inseffra? Consider supporting development!
 
-<a href="https://www.buymeacoffee.com/effra">
+<a href="https://buymeacoffee.com/inseffra">
   <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 
 ---
 
-## ⚠️ Disclaimer
+## 📜 License
 
-This software is for **educational purposes only**. Use at your own risk. The developer is not responsible for any bans or consequences.
+This software is proprietary. All rights reserved.  
+Unauthorized distribution, modification, or reverse engineering is prohibited.
 
 ---
 
