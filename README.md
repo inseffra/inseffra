@@ -146,8 +146,8 @@ Stay safe during screen shares! Inseffra is **completely invisible** to:
 ## 📸 Screenshots
 
 <div align="center">
-<img src="assets/screenshot-clicker.png" width="400" alt="Clicker Tab"/>
-<img src="assets/screenshot-settings.png" width="400" alt="Settings Tab"/>
+<img src="assets/screenshot-clickerr.png" width="400" alt="Clicker Tab"/>
+<img src="assets/screenshot-settingss.png" width="400" alt="Settings Tab"/>
 </div>
 
 ---
