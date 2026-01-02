@@ -86,8 +86,8 @@ Stay safe during screen shares! Inseffra is **completely invisible** to:
 
 | Server | Status |
 |--------|--------|
-| Craftrise | ✅ Tested |
-| Sonoyuncu | ✅ Tested |
+| Craftrise | ✅ Works |
+| Sonoyuncu | ✅ Works |
 | Hypixel | ⚠️ Use carefully |
 | Lunar Client | ✅ Works |
 | Badlion Client | ✅ Works |
@@ -209,8 +209,8 @@ All features can be bound to custom hotkeys including:
 
 Love Inseffra? Consider supporting development!
 
-<a href="https://ko-fi.com/inseffra">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+<a href="https://buymeacoffee.com/inseffra">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 
 ---
