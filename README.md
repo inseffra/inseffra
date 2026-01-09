@@ -9,7 +9,7 @@
 [![Downloads](https://img.shields.io/github/downloads/inseffra/inseffra-minecraft-clicker/total?color=7B68EE)](https://github.com/inseffra/inseffra-minecraft-clicker/releases)
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
 
-<img src="assets/preview.png" alt="Inseffra Preview" width="700"/>
+<img src="assets/previeww.png" alt="Inseffra Preview" width="700"/>
 
 [**Download**](https://github.com/inseffra/inseffra-minecraft-clicker/releases/latest) • [Features](#features) • [Security](#security-analysis) • [Documentation](#documentation)
 
@@ -146,8 +146,8 @@ All features support custom keybinds including:
 ## Screenshots
 
 <div align="center">
-<img src="assets/screenshot-clickerr.png" width="45%" alt="Clicker Interface"/>
-<img src="assets/screenshot-settingss.png" width="45%" alt="Settings Interface"/>
+<img src="assets/screenshot-movement.png" width="45%" alt="Movement Features"/>
+<img src="assets/screenshot-setingsss.png" width="45%" alt="Settings Interface"/>
 </div>
 
 ---
