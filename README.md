@@ -149,8 +149,6 @@ All features support custom keybinds including:
 **v2.2.0** - Current Release
 - Movement Features: Auto Sprint, Sprint Reset (W-Tap/S-Tap), Strafing
 - Auto Slot Switch for right-click automation
-- Analytics Dashboard integration
-- Enhanced Turkish localization
 
 **v2.1.1**
 - Tray icon hiding
