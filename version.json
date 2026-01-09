@@ -1,7 +1,5 @@
 {
-  "version": "2.1.1",
-  "download_url": "https://github.com/inseffra/inseffra/releases/latest",
-  "changelog": "v2.1.1 - Hide Tray, Only in Focus fix.",
-  "changelog_en": "Hide Tray icon, Fixed Only in Focus.",
-  "changelog_tr": "Tray simgesi gizleme, Only in Focus düzeltildi."
+    "version": "2.2.0",
+    "download_url": "https://github.com/inseffra/inseffra-minecraft-clicker/releases/latest",
+    "changelog": "v2.2.0 - Movement Features & Auto Slot Switch"
 }
