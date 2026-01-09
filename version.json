@@ -1,5 +1,8 @@
 {
-    "version": "2.2.0",
-    "download_url": "https://github.com/inseffra/inseffra-minecraft-clicker/releases/latest",
-    "changelog": "v2.2.0 - Movement Features & Auto Slot Switch"
+  "version": "2.2.0",
+  "download_url": "https://github.com/inseffra/inseffra-minecraft-clicker/releases/latest",
+  "changelog": "v2.2.0 - Movement Features & Auto Slot Switch",
+  "changelog_en": "Added Movement tab (Auto Sprint, Sprint Reset, Strafing), Auto Slot Switch feature.",
+  "changelog_tr": "Movement sekmesi eklendi (Auto Sprint, Sprint Reset, Strafing), Auto Slot Switch özelliği.",
+  "required": false
 }
