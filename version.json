@@ -1,8 +1,8 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "download_url": "https://github.com/inseffra/inseffra-minecraft-clicker/releases/latest",
-  "changelog": "v2.2.1 - Critical Bug Fix",
-  "changelog_en": "Fixed: Movement features (Strafing/Sprint Reset) now only activate when Left Clicker trigger key is pressed.",
-  "changelog_tr": "Düzeltildi: Movement özellikleri (Strafing/Sprint Reset) artık sadece Left Clicker trigger key'ine basıldığında aktif oluyor.",
+  "changelog": "v2.2.2 - Added Toggle Keybinding Support",
+  "changelog_en": "Added new keybinding options for toggling features on/off.",
+  "changelog_tr": "Özellikleri açıp kapatmak için yeni tuş atama seçenekleri eklendi.",
   "required": false
 }
